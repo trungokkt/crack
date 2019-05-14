@@ -6,18 +6,19 @@ using namespace std;
 int main()
 {
 	
-	string username;
-	int code;
-	const int _23E = 574;
-	int EAX = 0;
-	int EBX = 0;
-	int ECX = 0;
-	int EDX = 0;
-	int EBP_8 = 0;
-	int EBP_C = 0;
-	int EBP_10 = 574;
-	int EDI = 0;
 	while(1) {
+
+		string username;
+		int code;
+		const int _23E = 574;
+		int EAX = 0;
+		int EBX = 0;
+		int ECX = 0;
+		int EDX = 0;
+		int EBP_8 = 0;
+		int EBP_C = 0;
+		int EBP_10 = 574;
+		int EDI = 0;
 		system("cls");
 	while (1)
 	{
